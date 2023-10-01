@@ -40,15 +40,19 @@
             }
           },
           {
-            "id": "a57b9164f8204d55",
+            "id": "5d9ef860715fc116",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IRL/Maths/Spé/Révisions - Maths - DS 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -187,10 +191,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ef529d09ef28ada5",
+  "active": "5d9ef860715fc116",
   "lastOpenFiles": [
-    "IRL/Maths/Expertes/Révisions - ME.md",
     "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
+    "README.md",
+    "Untitled",
+    "IRL/Maths/Expertes/Révisions - ME.md",
     "IRL/PC/Revisions - PC - DS 1.md",
     "IRL/Maths/Spé",
     "IRL/Histoire",
@@ -208,7 +214,6 @@
     "IRL/PC",
     "IRL/Maths",
     "OSINT",
-    "KS",
     "PMM.md",
     "2023-08-30.md",
     "Maths.md",
