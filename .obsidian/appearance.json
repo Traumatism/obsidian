@@ -1,11 +1,12 @@
 {
-  "accentColor": "#ffffff",
-  "cssTheme": "Encore",
-  "theme": "obsidian",
+  "accentColor": "#000000",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
   "showViewHeader": true,
   "translucency": true,
   "interfaceFontFamily": "CMU Serif",
   "monospaceFontFamily": "CMU Typewriter Text",
   "textFontFamily": "CMU Serif Upright Italic",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 19
 }

@@ -2,24 +2,27 @@
 
 ### Acide
 
-Lègue un proton
+_Lègue un proton_
 
 Forme génerale: $HA = A^- + H^+$
 ### Base
 
-Capte un proton
+_Capte un proton_
 
 Forme génerale: $A^- + H^+ = AH$
 
 ### Couple A/B
 
 Noté: $AH/A^-$
+
 #### Couples importants
 
-- $H_3O^+/H_2O$
-- $H_2O/HO^-$
-- $H_2CO_3/HCO_3^-$
-- $HCO_3^-/CO_3^{2-}$
+|Acide|Base|
+|--|--|
+|$H_{3}O^{+}$|$H_{2}O$|
+|$H_{2}O$|$HO^{-}$|
+|$H_2CO_3$|$HCO_{3}^{-}$|
+|$HCO_3^{-}$|$CO^{2-}_3$|
 
 **Espèce qui se comporte comme un acide/une base** $\leftrightarrow$ **amphotère**
 
@@ -29,7 +32,7 @@ Noté: $AH/A^-$
 
 $c_0 = 1\ mol \cdot L^{-1}$ (Pour faire sauter l'unité)
 
-$pH = -log(\frac{[H_3O^+]}{c_0}) \iff [H3O^+] = c_0 \cdot 10^{-pH}$
+$$pH = -log\Bigg(\frac{[H_3O^+]}{c_0}\Bigg) \iff [H3O^+] = c_0 \cdot 10^{-pH}$$
 
 ### Spectroscopies
 
@@ -50,15 +53,13 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
  $$A = \varepsilon_\lambda \cdot \ell \cdot c$$
 ### Conductimétrie
 
-$G(S)$: Conductance
-
-$R(\Omega)$: Résistance
-
-$\sigma(S \cdot m^{-1})$: Conductivité
-
-$p(pa)$: Pression
-
-$V(m^3)$: Volume
+|Lettre|Description|Unité|
+|--|--|--|
+|G|Conductance|$S$|
+|R|Résistance|$\Omega$|
+|$\sigma$|Conductivité|$S\cdot{m^{-1}}$
+|p|Pression|$pa$|
+|V|Volume|$m^3$|
 
 $$I(A) \propto U(V)$$
 $$G = R^{-1} = \frac{S}{L} \cdot \sigma \iff U = R \cdot I \iff I = G \cdot U$$
@@ -66,7 +67,6 @@ $$G = R^{-1} = \frac{S}{L} \cdot \sigma \iff U = R \cdot I \iff I = G \cdot U$$
 $$
 \sigma_i = \lambda_i \cdot [X_i]
 $$
-
 $$
 	\sigma = \sum_i{\lambda_i\cdot[X_i]}
 $$

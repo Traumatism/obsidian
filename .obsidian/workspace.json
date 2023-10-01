@@ -11,6 +11,14 @@
             "id": "a0e924caab7ae3f2",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "42c80208d96c64d0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "IRL/PC/Revisions - PC - DS 1.md",
@@ -19,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,16 +166,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a0e924caab7ae3f2",
+  "active": "42c80208d96c64d0",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "IRL/PC/Revisions - PC - DS 1.md",
+    "IRL/Maths",
     "IRL/Maths/Revisions - Maths - Limites.md",
     "IRL/Maths/DM n°1.md",
-    "IRL/PC/Revisions - PC - DS 1.md",
     "OSINT/S.md",
-    "Untitled",
     "Reports",
     "KS/Operations Security.md",
-    "Untitled.canvas",
     "2023-08-31.md",
     "Personnes/Floriant.md",
     "IRL/PC",
