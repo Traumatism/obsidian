@@ -63,6 +63,8 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
 |V|Volume|$m^3$|
 
 $$I(A) \propto U(V)$$
+
+
 $$G = R^{-1} = \frac{S}{L} \cdot \sigma \iff U = R \cdot I \iff I = G \cdot U$$
 #### Loi de Kohlrausch
 $$\sigma = \sum_i{\lambda_i\cdot[X_i]}$$
