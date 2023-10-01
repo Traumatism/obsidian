@@ -3,10 +3,12 @@
 ### Acide
 
 Lègue un proton
+
 Forme génerale: $HA = A^- + H^+$
 ### Base
 
 Capte un proton
+
 Forme génerale: $A^- + H^+ = AH$
 
 ### Couple A/B
@@ -49,9 +51,13 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
 ### Conductimétrie
 
 $G(S)$: Conductance
+
 $R(\Omega)$: Résistance
+
 $\sigma(S \cdot m^{-1})$: Conductivité
+
 $p(pa)$: Pression
+
 $V(m^3)$: Volume
 
 $$I(A) \propto U(V)$$
