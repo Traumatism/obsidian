@@ -56,11 +56,11 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
 
 |Lettre|Description|Unité|
 |--|--|--|
-|G|Conductance|$S$|
-|R|Résistance|$\Omega$|
+|$G$|Conductance|$S$|
+|$R$|Résistance|$\Omega$|
 |$\sigma$|Conductivité|$S\cdot{m^{-1}}$
-|p|Pression|$pa$|
-|V|Volume|$m^3$|
+|$p$|Pression|$pa$|
+|$V$|Volume|$m^3$|
 
 $$I(A) \propto U(V)$$
 
