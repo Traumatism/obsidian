@@ -41,6 +41,7 @@ Pour chaque radiation incidente de longueur d'onde $\lambda$, les valeurs de $I$
 - La transmittance $T$ ($\%$)
 
 Spectroscopie IR: $2.5\ \micro m < \lambda < 25\ \micro m$
+
 Spectroscopie UV-visible: $300\ nm < \lambda < 800\ nm$
 
 Nombre d'onde: $\sigma = \lambda^{-1}$
@@ -64,12 +65,8 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
 $$I(A) \propto U(V)$$
 $$G = R^{-1} = \frac{S}{L} \cdot \sigma \iff U = R \cdot I \iff I = G \cdot U$$
 #### Loi de Kohlrausch
-$$
-\sigma_i = \lambda_i \cdot [X_i]
-$$
-$$
-	\sigma = \sum_i{\lambda_i\cdot[X_i]}
-$$
+$$\sigma_i = \lambda_i \cdot [X_i]$$
+$$\sigma = \sum_i{\lambda_i\cdot[X_i]}$$
 Lorsque les coéfficients stoechiométriques le permettent:
 $$
 \sigma=\sum_i{\lambda_i\cdot[X_i]}\iff\sigma=\sum_i{\lambda_i\cdot c}\iff c=\frac{\sigma}{\sum_i{\lambda_i}}
