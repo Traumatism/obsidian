@@ -31,12 +31,6 @@ $pH = -log(\frac{[H_3O^+]}{c_0}) \iff [H3O^+] = c_0 \cdot 10^{-pH}$
 
 ### Spectroscopies
 
-$$
-
-lumiere\ incidente\ (I_0, \lambda) \rightarrow échantillon \rightarrow lumière\ transmise\ (I)
-
-$$
-
 Pour chaque radiation incidente de longueur d'onde $\lambda$, les valeurs de $I$ et $I_0$ permettent de déterminer:
 - L'absorbance $A$ (sans unité)
 - La transmittance $T$ ($\%$)

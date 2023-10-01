@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d198827ae5e841fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5a1231fcdf9dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e924caab7ae3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRL/PC/Revisions - PC - DS 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b735ce15257a469",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d496c74b7eee1a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e322c15204a99ad6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b854ca5f833640",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95a5521a0b097404",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ac09af906d32c56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e96bbe3826ed46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9fd097f78e94d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f95e19a1a81968d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IRL/PC/Revisions - PC - DS 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7c04873265e19a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IRL/PC/Revisions - PC - DS 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "131a20b15039c379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IRL/PC/Revisions - PC - DS 1.md"
+              }
+            }
+          },
+          {
+            "id": "fcd24f2a7d27ae4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "a0e924caab7ae3f2",
+  "lastOpenFiles": [
+    "IRL/Maths/Revisions - Maths - Limites.md",
+    "IRL/Maths/DM n°1.md",
+    "IRL/PC/Revisions - PC - DS 1.md",
+    "OSINT/S.md",
+    "Untitled",
+    "Reports",
+    "KS/Operations Security.md",
+    "Untitled.canvas",
+    "2023-08-31.md",
+    "Personnes/Floriant.md",
+    "IRL/PC",
+    "IRL/Maths",
+    "OSINT",
+    "KS",
+    "PMM.md",
+    "IRL",
+    "2023-08-30.md",
+    "Maths.md",
+    "Operations Security.html",
+    "Fournitures.md",
+    "Physique"
+  ]
+}
