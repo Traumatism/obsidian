@@ -1,5 +1,14 @@
----
-tags:
-  - generic
----
-```:3```
+```
+
+              (Computer) ~ ~ ~ [House]
+             /     \
++ ------ +  /     /
+;        ; /      \
+; GitHub ;        / Connection
+;        ;        \ via SSH
++ ------ + \      /
+            \     \
+             \    /
+              (Macbook) ~ ~ ~ [School, Library]
+
+```
