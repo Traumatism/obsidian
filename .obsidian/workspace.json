@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5a1231fcdf9dde",
+        "id": "2f849e71347533fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e924caab7ae3f2",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "42c80208d96c64d0",
+            "id": "a6d35d0b3c1c114f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef529d09ef28ada5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d9ef860715fc116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264.5004348754883
   },
   "right": {
     "id": "ac09af906d32c56a",
@@ -129,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "IRL/PC/Revisions - PC - DS 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "IRL/PC/Revisions - PC - DS 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "IRL/PC/Revisions - PC - DS 1.md"
               }
             }
           },
@@ -184,25 +151,34 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "3d-graph:3D Graph": false
+      "markdown-importer:Open format converter": true,
+      "3d-graph:3D Graph": true
     }
   },
-  "active": "5d9ef860715fc116",
+  "active": "1a9fd097f78e94d6",
   "lastOpenFiles": [
-    "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
-    "README.md",
-    "Untitled",
-    "IRL/Maths/Expertes/Révisions - ME.md",
     "IRL/PC/Revisions - PC - DS 1.md",
+    "IRL/PC/DS1/Spectroscopie/Spectroscopie.md",
+    "IRL/PC/DS1/Spectroscopie/UV-visible.md",
+    "IRL/PC/DS1/Spectroscopie/Infrarouges.md",
+    "IRL/PC/DS1/Spectroscopie",
+    "IRL/PC/DS1/Conductimétrie",
+    "IRL/PC/DS1/Conductimétrie/Cas des gazs.md",
+    "IRL/PC/DS1/Conductimétrie/Loi de Kohlrausch.md",
+    "IRL/PC/DS1",
+    "c.md",
+    "IRL/Maths/Spé/Révisions - Maths - DS 1.md",
+    "CV.md",
+    "README.md",
+    "IRL/Maths/Expertes/Révisions - ME.md",
+    "Untitled.canvas",
     "IRL/Maths/Spé",
     "IRL/Histoire",
     "IRL/Maths/Expertes",
     "IRL/Maths/Spé",
-    "Untitled.canvas",
     "IRL/Maths",
     "IRL/Maths/Revisions - Maths - Limites.md",
     "IRL/Maths/DM n°1.md",
@@ -212,8 +188,6 @@
     "2023-08-31.md",
     "Personnes/Floriant.md",
     "IRL/PC",
-    "IRL/Maths",
-    "OSINT",
     "PMM.md",
     "2023-08-30.md",
     "Maths.md",
