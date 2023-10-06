@@ -5,11 +5,13 @@ tags:
   - ds
   - sciences
 ---
-## Récurrence
+
+# Récurrence (Rédaction)
 
 Pour $n\in\mathbb{N}$, on note $\mathcal{P}_n$ la proposition: $\ll ... \gg$.
 
-Montrons par récurrence que $$\boxed{\forall{n}\in\mathbb{N},\ \mathcal{P}_n}$$
+Montrons par récurrence que $\boxed{\forall{n}\in\mathbb{N},\ \mathcal{P}_n}$
+
 ### Initialisation
 
 D'une part, on a ...
@@ -34,4 +36,4 @@ $\mathcal{P}_n$ est donc héréditaire.
 
 Ainsi, $\mathcal{P}_n$ est initialisée et héréditaire.
 
-On a donc: $$\boxed{\forall{n}\in\mathbb{N},\ \mathcal{P}_n}$$
+On a donc: $\boxed{\forall{n}\in\mathbb{N},\ \mathcal{P}_n}$

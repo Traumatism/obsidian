@@ -70,14 +70,16 @@ Grande (resp. petite) transmittance $\iff$ Petite absorbance (resp. grande)
 |$p$|Pression|$pa$|
 |$V$|Volume|$m^3$|
 
-$$I(A) \propto U(V)$$
-
-
 $$\boxed{\ \ G=R^{-1}=\frac{S}{L}\cdot\sigma\ \ }\iff U = R \cdot I \iff I = G \cdot U$$
+
 #### Loi de Kohlrausch
+
 $$\boxed{\ \ \sigma=\sum_i{\lambda_i\cdot[X_{i]}}\ \ }$$
 Lorsque les coéfficients stoechiométriques le permettent:
 $$\sigma=\sum_i{\lambda_i\cdot[X_i]}\iff\sigma=\sum_i{\lambda_i\cdot c}\iff \boxed{\ \ c=\frac{\sigma}{\sum_i{\lambda_{i}}}\ \ }$$
+
 #### Cas des gazs
+
 $$p = \frac{\sum_i{f_i}}{S}$$
 $$\boxed{\ \ p\cdot V=n\cdot R_m\cdot T\ \ }$$
+
